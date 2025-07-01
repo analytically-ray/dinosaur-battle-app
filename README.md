@@ -26,8 +26,6 @@ Each dinosaur includes:
 
 ## 📦 Dependencies
 
-- R (>= 4.0)
-- [Shiny](https://shiny.posit.co/)
-- `httr`, `jsonlite` for API calls
-- `leaflet` for interactive maps
-- `htmltools`, `shinyjs` (for dynamic UI elements)
+<img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/RStudio.png" alt="RStudio" width="120" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/shiny.png" alt="shiny" width="120" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/htmltools.png" alt="htmltools" width="120" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/dplyr.png" alt="dplyr" width="120" /> <img src="https://plotly.github.io/documentation/all_static/images/icon-dash.png" alt="plotly" width="120" /> 
+
+[RStudio Hex Stickers](https://github.com/rstudio/hex-stickers)
