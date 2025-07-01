@@ -26,6 +26,6 @@ Each dinosaur includes:
 
 ## 📦 Dependencies
 
-<img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/RStudio.png" alt="RStudio" width="120" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/shiny.png" alt="shiny" width="120" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/htmltools.png" alt="htmltools" width="120" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/dplyr.png" alt="dplyr" width="120" /> <img src="https://plotly.github.io/documentation/all_static/images/icon-dash.png" alt="plotly" width="120" /> 
+<img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/RStudio.png" alt="RStudio" width="60" />  <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/shiny.png" alt="shiny" width="60" />  <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/htmltools.png" alt="htmltools" width="60" />  <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/dplyr.png" alt="dplyr" width="60" />  <img src="https://plotly.github.io/documentation/all_static/images/icon-dash.png" alt="plotly" width="60" /> 
 
 [RStudio Hex Stickers](https://github.com/rstudio/hex-stickers)
