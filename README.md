@@ -4,7 +4,7 @@ When R Shiny meets my young dinosaur-enthused stakeholder, we get this interacti
 
 # 🦖 Dinosaur Battle App
 
-An interactive R Shiny app where dinosaurs battle in a turn-based game with battle narration! Built for fun, learning, and engagement—especially great for kids!
+An interactive R Shiny app where dinosaurs battle in a turn-based game with battle narration! Built for fun, learning, and engagement, especially great for dinosaur-enthusiastic kids!
 
 ## 🚀 Features
 
@@ -23,6 +23,8 @@ Each dinosaur includes:
 - A publicly hosted image (wikimedia)
 
 ![Dinosaur Battle Screenshot](screenshot.png)
+
+[Try the App Now](https://analytically-ray.shinyapps.io/dinosaur_battle_app/)
 
 ## 📦 Dependencies
 
